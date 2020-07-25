@@ -1,0 +1,4 @@
+# Project exclude paths
+/apollo-integrated-spring-boot/target/
+/apollo-quick-start/target/
+/target/
